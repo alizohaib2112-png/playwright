@@ -35,3 +35,6 @@ npm install
 
 ## Run All tests
 npx playwright test
+
+## Run specific test file
+npx playwright test uiTask.spec.ts
