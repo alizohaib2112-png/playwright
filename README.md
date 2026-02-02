@@ -27,6 +27,7 @@ CREATE TABLE "user" (
 
 ## Clone the Repository
 git clone https://github.com/alizohaib2112-png/playwright.git
+
 cd playwright
 
 ## Install Dependencies
