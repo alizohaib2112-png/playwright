@@ -23,6 +23,7 @@ CREATE TABLE "user" (
     name TEXT NOT NULL,
     email TEXT NOT NULL
 );
+```
 
 ## Clone the Repository
 git clone https://github.com/alizohaib2112-png/playwright.git
